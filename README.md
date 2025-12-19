@@ -82,8 +82,6 @@ You only need to run data acquisition **if you want to fetch fresh Eventbrite da
    * cookies
 6. Paste them into `config_local.py`
 
-> This file contains **personal browser/session data** and **must not be committed**.
-
 If you don’t do this step, simply skip `data_acquisition.py`.
 
 ---
